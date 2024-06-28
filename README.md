@@ -1,5 +1,4 @@
 
-```markdown
 # Node.js + React.js Food App
 
 This project is a web application that combines a Node.js backend server with a React.js frontend to fetch food data based on ingredients and display recipes.
